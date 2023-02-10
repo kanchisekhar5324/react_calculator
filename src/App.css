@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-color:#7b8fa1;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calc-wrapper {
+  
+  background-color:#CCCCAD;
+  width: 800px;
+  border-radius:50px;
+}
+
+.row {
+  display: flex;
+}
